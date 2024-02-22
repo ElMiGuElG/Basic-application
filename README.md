@@ -2,10 +2,6 @@
 
 It is a simple application that allows you to switch between screens, enter your name and select your mood to receive a motivational phrase.
 
-## Screenshots
-
-![Pantalla de Inicio](/screenshots/inicio.png)
-
 ## Features
 
 - Switching between screens.
