@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Basic_Application</string>
+    <string name="cycle">current life cycle:</string>
+    <string name="life_cycle">on standby</string>
+    <string name="txt_name">what is your name?</string>
+    <string name="txt_feel">How do you feel?</string>
+    <string name="txt_emotions">Emotions are important </string>
+    <string name="txt_sad">Every storm has an end, and then comes the calm.</string>
+    <string name="txt_happy">Your happiness illuminates the world around you</string>
+    <string name="txt_welcome">Welcome!!</string>
+    <string name="txt_user">Name</string>
+    <string name="btn_sad">Sad</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_happy">Happy</string>
+    <string name="btn_send">Send</string>
+
+</resources>
